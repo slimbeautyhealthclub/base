@@ -1,1 +1,1 @@
-Trying out gh-pages
+Trying out gh-pages for a website: slimbeautyhealthclub.com
